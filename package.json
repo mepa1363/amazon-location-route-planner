@@ -1,0 +1,27 @@
+{
+  "name": "amazon-location-route-planner",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@aws-amplify/core": "^4.6.1",
+    "@aws-sdk/client-cognito-identity": "^3.142.0",
+    "@aws-sdk/client-location": "^3.142.0",
+    "@aws-sdk/credential-provider-cognito-identity": "^3.142.0",
+    "@turf/helpers": "^6.5.0",
+    "maplibre-gl": "^2.1.9",
+    "vue": "^3.2.37"
+  },
+  "devDependencies": {
+    "@vicons/carbon": "^0.12.0",
+    "@vitejs/plugin-vue": "^3.0.0",
+    "naive-ui": "^2.32.1",
+    "vfonts": "^0.0.3",
+    "vite": "^3.0.0"
+  }
+}
