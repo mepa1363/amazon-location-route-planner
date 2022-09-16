@@ -8,7 +8,7 @@ Use this project to learn how to build an online route planner that finds optima
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload
 npm run dev
 
 # build for production with minification
