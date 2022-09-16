@@ -488,6 +488,7 @@ body {
   position: absolute;
   top: 0;
   bottom: 0;
+  left: 0px;
   width: 100%;
 }
 .n-card {
